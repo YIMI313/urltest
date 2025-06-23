@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "宮城県→長野県",
+        "mode": "船",
+        "co2_kg": 7689029,
+        "distance_km": 657
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.8719,
+            38.2688
+          ],
+          [
+            138.181,
+            36.6513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "福岡県→愛知県",
+        "mode": "船",
+        "co2_kg": 17177388,
+        "distance_km": 1065
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4017,
+            33.5902
+          ],
+          [
+            136.9066,
+            35.1815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "新潟県→愛知県",
+        "mode": "船",
+        "co2_kg": 6956049,
+        "distance_km": 283
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.0236,
+            37.9162
+          ],
+          [
+            136.9066,
+            35.1815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "北海道→長野県",
+        "mode": "トラック",
+        "co2_kg": 5152161,
+        "distance_km": 1367
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.3545,
+            43.0642
+          ],
+          [
+            138.181,
+            36.6513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "福岡県→愛知県",
+        "mode": "トラック",
+        "co2_kg": 11251166,
+        "distance_km": 212
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4017,
+            33.5902
+          ],
+          [
+            136.9066,
+            35.1815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "東京都→福岡県",
+        "mode": "船",
+        "co2_kg": 11961045,
+        "distance_km": 637
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.6917,
+            35.6895
+          ],
+          [
+            130.4017,
+            33.5902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "新潟県→宮城県",
+        "mode": "トラック",
+        "co2_kg": 18777488,
+        "distance_km": 1138
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.0236,
+            37.9162
+          ],
+          [
+            140.8719,
+            38.2688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "長野県→兵庫県",
+        "mode": "トラック",
+        "co2_kg": 4753460,
+        "distance_km": 611
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.181,
+            36.6513
+          ],
+          [
+            135.183,
+            34.6913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "兵庫県→北海道",
+        "mode": "トラック",
+        "co2_kg": 3412317,
+        "distance_km": 1357
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.183,
+            34.6913
+          ],
+          [
+            141.3545,
+            43.0642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "長野県→東京都",
+        "mode": "船",
+        "co2_kg": 5230308,
+        "distance_km": 484
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.181,
+            36.6513
+          ],
+          [
+            139.6917,
+            35.6895
+          ]
+        ]
+      }
+    }
+  ]
+}
